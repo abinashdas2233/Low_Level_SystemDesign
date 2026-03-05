@@ -1,0 +1,17 @@
+package com.learn.singleresponsibility;
+
+public class DBStorage {
+	ShoppingCart cart;
+	Product product;
+
+	public DBStorage(ShoppingCart cart,Product product) {
+		super();
+		this.cart = cart;
+		this.product=product;
+	}
+	public void storeInvoice() {
+		System.out.println("store invoice-"+cart.price);
+		System.out.println(product.getName());
+	}
+
+}

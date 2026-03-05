@@ -1,0 +1,11 @@
+package com.learn.opencloseprinciple;
+
+public class ShopController {
+	public static void main(String[] args) {
+		ICustomerType type1=new PrimeCustomer(900.00);
+		ICustomerType type2=new  NonPrimeCustomer(900.00);
+		
+		
+	}
+
+}

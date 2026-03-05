@@ -1,0 +1,13 @@
+package com.learn.singleresponsibility;
+
+public class Invoice {
+	ShoppingCart cart;
+
+	public Invoice(ShoppingCart cart) {
+		super();
+		this.cart = cart;
+	}
+	public void printInvoice() {
+		System.out.println("print invoice-"+cart.);
+	}
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Low-level-design\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3353818257.index
+2025079716.index

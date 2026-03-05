@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.learn.singleresponsibility.Product"/>
+    <fullyQualifiedTypeName name="com.learn.singleresponsibility.ShoppingCart"/>
+    <fullyQualifiedTypeName name="com.learn.singleresponsibility.Invoice"/>
+    <fullyQualifiedTypeName name="com.learn.singleresponsibility.DBStorage"/>
+    <fullyQualifiedTypeName name="com.learn.opencloseprinciple.PrimeCustomer"/>
+    <fullyQualifiedTypeName name="com.learn.opencloseprinciple.ICustomerType"/>
+    <fullyQualifiedTypeName name="com.learn.opencloseprinciple.NonPrimeCustomer"/>
+    <fullyQualifiedTypeName name="com.learn.opencloseprinciple.StoreDB"/>
+    <fullyQualifiedTypeName name="com.learn.opencloseprinciple.InvoicePrint"/>
+    <fullyQualifiedTypeName name="com.learn.liskovprinciple.WithDraw"/>
+    <fullyQualifiedTypeName name="com.learn.liskovprinciple.NonWithDraw"/>
+</qualifiedTypeNameHistroy>

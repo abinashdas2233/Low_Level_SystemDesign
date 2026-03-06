@@ -11,4 +11,10 @@
     <fullyQualifiedTypeName name="com.learn.opencloseprinciple.InvoicePrint"/>
     <fullyQualifiedTypeName name="com.learn.liskovprinciple.WithDraw"/>
     <fullyQualifiedTypeName name="com.learn.liskovprinciple.NonWithDraw"/>
+    <fullyQualifiedTypeName name="com.learn.interfacesegrigation.TwoDShape"/>
+    <fullyQualifiedTypeName name="com.learn.interfacesegrigation.ThreeDShape"/>
+    <fullyQualifiedTypeName name="com.learn.dependencysegrigation.Database"/>
+    <fullyQualifiedTypeName name="com.learn.dependencysegrigation.MySqlDB"/>
+    <fullyQualifiedTypeName name="com.learn.dependencysegrigation.MongoDb"/>
+    <fullyQualifiedTypeName name="com.learn.dependencysegrigation.UserService"/>
 </qualifiedTypeNameHistroy>

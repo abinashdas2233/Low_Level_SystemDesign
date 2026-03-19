@@ -1,6 +1,0 @@
-package com.learn.liskovprinciple;
-
-abstract public class WithDraw {
-	abstract void withDraw();
-
-}

@@ -1,6 +1,0 @@
-package com.learn.dependencysegrigation;
-
-public interface Database {
-	public void saveData();
-
-}
